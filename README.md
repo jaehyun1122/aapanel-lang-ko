@@ -35,12 +35,7 @@ aaPanel currently supports English and Chinese officially. This pack allows Kore
    /www/server/panel/BTPanel/
    ```
 
-3. **Restart aaPanel**:
-   ```bash
-   bt restart
-   ```
-
-4. **Switch language** in aaPanel:
+3. **Switch language** in aaPanel:
    ```
    Settings > Language > Korean
    ```
