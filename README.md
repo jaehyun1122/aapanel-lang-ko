@@ -30,7 +30,7 @@ aaPanel currently supports English and Chinese officially. This pack allows Kore
 
    Or download the ZIP file and extract it.
 
-2. **Copy files** to your aaPanel Korean language folder:
+2. **Copy files** to your aaPanel folder(BTPanel) :
    ```
    /www/server/panel/BTPanel/
    ```
